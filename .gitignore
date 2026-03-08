@@ -1,6 +1,5 @@
 *.csv
 *.png
 *.jpg
-*.pdf
 *.html
 __pycache__/
